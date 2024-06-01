@@ -7,8 +7,8 @@ All the users of City "FanCode" should have more than half of their todos task c
 ## Software Requirements
 
 To run tests, Need to have following 
-	Git
-	Java - "17.0.10"
+	Git,
+	Java - "17.0.10",
 	Maven - "3.8.8"
 
 
@@ -21,7 +21,7 @@ Clone the project
 
 Go to the project directory
 
-  cd FanCode_roject
+  cd FanCode_Project
 
 
 To run tests, run the following command

@@ -16,7 +16,7 @@ To run tests, Need to have following
 
 Clone the project
 
-  git clone https://github.com/ChiruKrish/FanCode_Project
+  git clone https://github.com/ChiruKrish/FanCode_Project.git
 
 
 Go to the project directory
